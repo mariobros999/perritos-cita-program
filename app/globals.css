@@ -117,3 +117,20 @@ img {
     opacity: 0;
   }
 }
+
+@media (max-width: 480px) {
+  :root {
+    --radius: 16px;
+    --radius-sm: 10px;
+  }
+
+  body {
+    background-image:
+      radial-gradient(circle at 20% 10%, rgba(124,58,237,0.06) 0%, transparent 40%),
+      radial-gradient(circle at 80% 90%, rgba(236,72,153,0.04) 0%, transparent 40%);
+  }
+
+  .float-cat {
+    height: 70px;
+  }
+}
