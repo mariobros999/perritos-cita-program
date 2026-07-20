@@ -4,7 +4,7 @@ import { Analytics } from "@vercel/analytics/next"
 
 export const metadata: Metadata = {
   title: '¿Saldrías conmigo? 🐱',
-  description: 'Cita nerd con estilo meme y gatitos.',
+  description: 'Cita con estilo meme y perritos.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
