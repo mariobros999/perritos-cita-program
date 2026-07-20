@@ -10,9 +10,9 @@ const questions = [
     tag: '// módulo: entretenimiento.exe',
     text: '🎬 Noche de películas — ¿qué genero seleccionas?',
     options: [
-      '🚀 Sci-Fi — universos paralelos',
-      '🕵️ Thriller psicológico — glitches en la matrix',
-      '🧪 Documental de ciencia — IRL tutorials 😂',
+      '🚀 Terror — Zombies',
+      '🕵️ Thriller - Suspenso — Acción',
+      '🧪 Sci-Fi — universos paralelos',
       '🎭 Comedia romántica — el bug más predecible',
     ],
   },
@@ -21,10 +21,10 @@ const questions = [
     tag: '// módulo: actividades_sociales.config',
     text: '📍 Primera cita — ¿qué instancia ejecutamos?',
     options: [
-      '☕ Café + código — pair programming romántico',
+      '☕ Café + pair romántico',
       '🔭 Planetario — explorar el universo juntos',
-      '🎮 Arcade vintage — retro & chill',
-      '📚 Librería + helado — the OG nerd date',
+      '🎮 Arcade vintage - Bowling — retro & chill',
+      '📚 Librería + helado — the OG date',
     ],
   },
   {
@@ -46,7 +46,7 @@ const questions = [
       '🌙 Paseo nocturno con debate filosófico',
       '🎵 Playlist compartida en bucle infinito',
       '🎲 Board game maratón — ganador elige la próxima cita',
-      '🌠 Ver las estrellas — con o sin telescopio',
+      '🌠 Ver las estrellas  — o NETFLIX 😏',
     ],
   },
 ];
